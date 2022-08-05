@@ -1,2 +1,2 @@
-# hello
-Just first repository
+# About me
+Just text about me
